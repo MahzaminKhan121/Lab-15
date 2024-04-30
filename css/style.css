@@ -1,0 +1,38 @@
+
+p{
+	color: blue;
+}
+
+
+div{
+	height: 200px;
+	width: 400px;
+	border: 2px solid purple;
+	overflow: auto;
+}
+
+
+.firstPart{
+	color: green;
+}
+
+.secondPart{
+	color: red;
+}
+
+.thirdPart{
+	color: purple;
+}
+
+ul{
+	padding: 0px;
+	margin: 0px;
+}
+
+ul li{
+	display: inline-block;
+	list-style: inside;
+}
+a{
+	text-decoration: none;
+}

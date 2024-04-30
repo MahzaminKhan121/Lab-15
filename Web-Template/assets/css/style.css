@@ -1,0 +1,152 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0px;
+}
+
+.container{
+	width: 80%;
+	margin: 0px auto;
+}
+/* common code */
+
+/* nav section start */
+nav{
+	height: 60px;
+	border: 2px solid red;
+}
+
+.nav-brand{
+	width: 20%;
+	height: 100%;
+	border: 1px solid green;	
+	float:left;
+}
+.text{
+	font-family: ;
+	margin: 15px 20px;
+	font-weight: bolder;
+	
+}
+
+.navbar{
+	width: 65%;
+	height: 100%;
+	border: 1px solid green;
+	float:left;
+}
+
+.nav-button{
+	width: 15%;
+	height: 100%;
+	border: 1px solid green;
+	float:left;
+}
+.button-1{
+	
+}
+button{
+	color: green;
+	font-weight: bolder;
+}
+ul{
+	padding: 0px;
+	margin: 0px;
+}
+ul li{
+	display: inline-block;
+	list-style: none inside;
+}
+ul li a{
+	text-decoration: none;
+}
+/* nav section end */
+
+/* header section start */
+header{
+	height: 520px;
+	border: 2px solid red;
+}
+.hdr-left-side{
+	background-color: #E8F3EC;
+	height: 100%;
+	width: 50%;
+	border: 1px solid green;
+	float: left;
+}
+div h1{
+	text-align: center;
+	color: black;
+	font-family: CampanaScript;
+}
+div p{
+	
+}
+.button-2{
+	background-color: #0B0609;
+	color: white;
+	text-align: bottom-left;
+	
+}
+
+.hdr-right-side{
+	height: 100%;
+	width: 50%;
+	border: 1px solid red;
+	float: left;
+}
+/* header section end */
+
+/* about section start */
+.about-section{
+	height:400px;
+	border: 2px solid red;
+}
+.about-left-side{
+	height: 100%;
+	width: 50%;
+	border: 1px solid red;
+	float: left;
+}
+.about-right-side{
+	height: 100%;
+	width: 50%;
+	border: 1px solid red;
+	float: left;
+}
+
+/* about section end */
+
+/* blog section start */
+.blog-section{
+	height:400px;
+	border: 2px solid red;
+}
+/* blog section end */
+
+/* footer section start */
+footer{
+	height: 60px;
+	border: 2px solid red;
+}
+.footer-left-side{
+	height: 100%;
+	width: 20%;
+	border: 1px solid red;
+	float: left;
+}
+.footer-middle-side{
+	height: 100%;
+	width: 65%;
+	border: 1px solid red;
+	float: left;
+}
+.footer-right-side{
+	height: 100%;
+	width: 15%;
+	border: 1px solid red;
+	float: left;
+}
+/* footer section end */
